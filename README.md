@@ -1,5 +1,5 @@
 # robot.ai
-![logo](https://github.com/grigo210/robot.ai/blob/main/logo.png "robot.ai")
+![logo]( "robot.ai")
 
 _tema tehnici multimedia_
 
