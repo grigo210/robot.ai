@@ -91,7 +91,7 @@ def program():
     elif y == "curs":
         print(" ")
         time.sleep(0.2)
-        with open("curs.txt", "r", encoding="utf-8") as file:
+        with open("/content/robot.ai/curs.txt", "r", encoding="utf-8") as file:
             for line in file:
                 print(line.strip())
         print(" ")
