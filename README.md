@@ -7,4 +7,5 @@ Grigoraș Alexandru-Iulian &
 Dorcioman Ioan-Vlad
 
 Acesta este un GitRepository unde stocam toate fisierele necesare functionarii site-ului.
+
 *codul sursa este in fisierul main.py
