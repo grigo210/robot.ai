@@ -1,0 +1,26 @@
+1.	Limbaj de programare
+Programarea presupune a da un set de instructiuni unui computer pentru a le executa, iar limbajele de programare sunt
+instrumentele pe care le folosim pentru a scrie instructiuni pentru a fi urmate de calculatoare. Calculatoarele „gandesc”
+in cod binar – siruri de 1 si 0. Limbajele de programare de permit sa traducem 1 si 0 in ceva pe care oamenii il pot
+intelege si scrie. Un limbaj de programare este alcatuit dintr-o serie de simboluri ce servesc drept o punte ce le
+permite oamenilor sa traduca gandurile noastre in instructiuni pe care computerele sa le inteleaga.
+
+2.	Inteligenta artificiala
+Inteligenta artificiala este o ramura a informaticii care are in vedere construirea de maisini inteligente, capabile sa
+indeplineasca sarcini care necesita de obicei inteligenta umana.
+Inteligenta artificiala este impartita in doua mari categorii.
+	Narrow AI: acest tip de AI functioneaza intr-un context limitat si este o simulare a inteligentei umane. Este de
+	obicei axat pe indeplinirea unei singure sarcini extrem de bine si, chiar daca aceste masini par inteligente, acestea
+	functioneaza sub mai multe constrangeri si limitari.
+	Artificial General Inteligente (AGI):  este tipul de Inteligenta Artificiala intalnita in filme, adica o masina cu
+	inteligenta generala care, ca orice fiinta umana, poate aplica acea inteligenta pentru a rezolva orice problema.
+
+3.	Chatbot
+Chatbot-ul este un program de Inteligenta Artificiala (AI/IA) cu care se poate interactiona printr-o interfata chat.
+Aceste programe au rolul de a prelua un input, de a-l intelege ce i-a fost dat si de a formula un raspuns relevant si
+corect pe baza informatiilor pe care le are.
+Chatbot-urile au tot felul de utilizari, de la bord la educație și afaceri. Unii iti pot spune vremea, alții
+dau sfaturi, iar altii ofera pur si simplu cuiva sa vorbeasca.
+Multe companii au dezvoltat propriile lor chatbots pentru a ajuta clientii cu cumparaturi online. De exemplu, in loc
+sa mergeti pe site-ul unei companii si sa cautati rezultatele pentru a gasi ceea ce doriti, puteti pur si simplu sa
+cereti unui chatbot sa va recomande un anumit articol.
