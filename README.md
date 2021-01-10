@@ -1,4 +1,5 @@
 # robot.ai
+![alt text](http://url/to/img.png)
 _tema tehnici multimedia_
 colaboratori: 
 Grigoraș Alexandru-Iulian &
