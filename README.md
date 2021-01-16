@@ -10,4 +10,4 @@ Acesta este un GitRepository unde stocam toate fisierele necesare functionarii s
 
 https://colab.research.google.com/drive/1PhEgm0cdB-yeG0i_zgsj_xth7e5zNmSv#scrollTo=x474lghvWB_U
 
-*codul sursa este in fisierul .py
+*codul sursa al notebook-ului este in robot_ai.ipynb
